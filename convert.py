@@ -6,3 +6,7 @@ def cents2dollars ( cents ):
 
 def hours2mins ( hours ):
     return hours * 60
+
+def cats2kittens ( cats ):
+    import numpy
+    return cats * numpy.floor(numpy.random.random()*10)
