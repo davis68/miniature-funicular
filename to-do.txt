@@ -4,3 +4,4 @@
     - hours to minutes
     - feet to inches
     - furlongs to nanometers
+    - parsecs to light-years
